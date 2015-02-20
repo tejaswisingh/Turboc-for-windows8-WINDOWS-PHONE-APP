@@ -1,0 +1,39 @@
+C:\Users\TEJASWI\Desktop\src\WP8App.BackgroundAgent\obj\Debug\WP8App.BackgroundAgent.csprojResolveAssemblyReference.cache
+I:\src\WP8App.BackgroundAgent\Bin\Debug\WPAppStudio.BackgroundAgent.dll
+I:\src\WP8App.BackgroundAgent\Bin\Debug\WPAppStudio.BackgroundAgent.pdb
+I:\src\WP8App.BackgroundAgent\Bin\Debug\WPAppStudio.BackgroundAgent.dll.CodeAnalysisLog.xml
+I:\src\WP8App.BackgroundAgent\Bin\Debug\WPAppStudio.BackgroundAgent.dll.lastcodeanalysissucceeded
+I:\src\WP8App.BackgroundAgent\Bin\Debug\Microsoft.Practices.Unity.Silverlight.dll
+I:\src\WP8App.BackgroundAgent\Bin\Debug\WPAppStudio.Entities.dll
+I:\src\WP8App.BackgroundAgent\Bin\Debug\WPAppStudio.Repositories.dll
+I:\src\WP8App.BackgroundAgent\Bin\Debug\HtmlAgilityPack.dll
+I:\src\WP8App.BackgroundAgent\Bin\Debug\WPAppStudio.Shared.dll
+I:\src\WP8App.BackgroundAgent\Bin\Debug\Newtonsoft.Json.dll
+I:\src\WP8App.BackgroundAgent\Bin\Debug\System.Xml.XPath.dll
+I:\src\WP8App.BackgroundAgent\Bin\Debug\WPAppStudio.Entities.pdb
+I:\src\WP8App.BackgroundAgent\Bin\Debug\WPAppStudio.Repositories.pdb
+I:\src\WP8App.BackgroundAgent\Bin\Debug\HtmlAgilityPack.pdb
+I:\src\WP8App.BackgroundAgent\Bin\Debug\HtmlAgilityPack.xml
+I:\src\WP8App.BackgroundAgent\Bin\Debug\Newtonsoft.Json.xml
+I:\src\WP8App.BackgroundAgent\obj\Debug\WP8App.BackgroundAgent.csprojResolveAssemblyReference.cache
+I:\src\WP8App.BackgroundAgent\obj\Debug\WPAppStudio.BackgroundAgent.dll
+I:\src\WP8App.BackgroundAgent\obj\Debug\WPAppStudio.BackgroundAgent.pdb
+D:\SOFTWARES\AppData\FINAL APP DATA\src\WP8App.BackgroundAgent\Bin\Debug\WPAppStudio.BackgroundAgent.dll
+D:\SOFTWARES\AppData\FINAL APP DATA\src\WP8App.BackgroundAgent\Bin\Debug\WPAppStudio.BackgroundAgent.pdb
+D:\SOFTWARES\AppData\FINAL APP DATA\src\WP8App.BackgroundAgent\Bin\Debug\WPAppStudio.BackgroundAgent.dll.CodeAnalysisLog.xml
+D:\SOFTWARES\AppData\FINAL APP DATA\src\WP8App.BackgroundAgent\Bin\Debug\WPAppStudio.BackgroundAgent.dll.lastcodeanalysissucceeded
+D:\SOFTWARES\AppData\FINAL APP DATA\src\WP8App.BackgroundAgent\Bin\Debug\Microsoft.Practices.Unity.Silverlight.dll
+D:\SOFTWARES\AppData\FINAL APP DATA\src\WP8App.BackgroundAgent\Bin\Debug\WPAppStudio.Entities.dll
+D:\SOFTWARES\AppData\FINAL APP DATA\src\WP8App.BackgroundAgent\Bin\Debug\WPAppStudio.Repositories.dll
+D:\SOFTWARES\AppData\FINAL APP DATA\src\WP8App.BackgroundAgent\Bin\Debug\HtmlAgilityPack.dll
+D:\SOFTWARES\AppData\FINAL APP DATA\src\WP8App.BackgroundAgent\Bin\Debug\WPAppStudio.Shared.dll
+D:\SOFTWARES\AppData\FINAL APP DATA\src\WP8App.BackgroundAgent\Bin\Debug\Newtonsoft.Json.dll
+D:\SOFTWARES\AppData\FINAL APP DATA\src\WP8App.BackgroundAgent\Bin\Debug\System.Xml.XPath.dll
+D:\SOFTWARES\AppData\FINAL APP DATA\src\WP8App.BackgroundAgent\Bin\Debug\WPAppStudio.Entities.pdb
+D:\SOFTWARES\AppData\FINAL APP DATA\src\WP8App.BackgroundAgent\Bin\Debug\WPAppStudio.Repositories.pdb
+D:\SOFTWARES\AppData\FINAL APP DATA\src\WP8App.BackgroundAgent\Bin\Debug\HtmlAgilityPack.pdb
+D:\SOFTWARES\AppData\FINAL APP DATA\src\WP8App.BackgroundAgent\Bin\Debug\HtmlAgilityPack.xml
+D:\SOFTWARES\AppData\FINAL APP DATA\src\WP8App.BackgroundAgent\Bin\Debug\Newtonsoft.Json.xml
+D:\SOFTWARES\AppData\FINAL APP DATA\src\WP8App.BackgroundAgent\obj\Debug\WP8App.BackgroundAgent.csprojResolveAssemblyReference.cache
+D:\SOFTWARES\AppData\FINAL APP DATA\src\WP8App.BackgroundAgent\obj\Debug\WPAppStudio.BackgroundAgent.dll
+D:\SOFTWARES\AppData\FINAL APP DATA\src\WP8App.BackgroundAgent\obj\Debug\WPAppStudio.BackgroundAgent.pdb

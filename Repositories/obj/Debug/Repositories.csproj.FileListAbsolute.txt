@@ -1,0 +1,36 @@
+I:\src\Repositories\Bin\Debug\WPAppStudio.Repositories.dll
+I:\src\Repositories\Bin\Debug\WPAppStudio.Repositories.pdb
+I:\src\Repositories\Bin\Debug\WPAppStudio.Repositories.dll.CodeAnalysisLog.xml
+I:\src\Repositories\Bin\Debug\WPAppStudio.Repositories.dll.lastcodeanalysissucceeded
+I:\src\Repositories\Bin\Debug\Newtonsoft.Json.dll
+I:\src\Repositories\Bin\Debug\WPAppStudio.Entities.dll
+I:\src\Repositories\Bin\Debug\WPAppStudio.Shared.dll
+I:\src\Repositories\Bin\Debug\HtmlAgilityPack.dll
+I:\src\Repositories\Bin\Debug\System.Xml.XPath.dll
+I:\src\Repositories\Bin\Debug\WPAppStudio.Entities.pdb
+I:\src\Repositories\Bin\Debug\Newtonsoft.Json.xml
+I:\src\Repositories\Bin\Debug\HtmlAgilityPack.pdb
+I:\src\Repositories\Bin\Debug\HtmlAgilityPack.xml
+I:\src\Repositories\obj\Debug\Repositories.csprojResolveAssemblyReference.cache
+I:\src\Repositories\obj\Debug\WPAppStudio.Repositories.Resources.AppResources.resources
+I:\src\Repositories\obj\Debug\Repositories.csproj.GenerateResource.Cache
+I:\src\Repositories\obj\Debug\WPAppStudio.Repositories.dll
+I:\src\Repositories\obj\Debug\WPAppStudio.Repositories.pdb
+D:\SOFTWARES\AppData\FINAL APP DATA\src\Repositories\Bin\Debug\WPAppStudio.Repositories.dll
+D:\SOFTWARES\AppData\FINAL APP DATA\src\Repositories\Bin\Debug\WPAppStudio.Repositories.pdb
+D:\SOFTWARES\AppData\FINAL APP DATA\src\Repositories\Bin\Debug\WPAppStudio.Repositories.dll.CodeAnalysisLog.xml
+D:\SOFTWARES\AppData\FINAL APP DATA\src\Repositories\Bin\Debug\WPAppStudio.Repositories.dll.lastcodeanalysissucceeded
+D:\SOFTWARES\AppData\FINAL APP DATA\src\Repositories\Bin\Debug\Newtonsoft.Json.dll
+D:\SOFTWARES\AppData\FINAL APP DATA\src\Repositories\Bin\Debug\WPAppStudio.Entities.dll
+D:\SOFTWARES\AppData\FINAL APP DATA\src\Repositories\Bin\Debug\WPAppStudio.Shared.dll
+D:\SOFTWARES\AppData\FINAL APP DATA\src\Repositories\Bin\Debug\HtmlAgilityPack.dll
+D:\SOFTWARES\AppData\FINAL APP DATA\src\Repositories\Bin\Debug\System.Xml.XPath.dll
+D:\SOFTWARES\AppData\FINAL APP DATA\src\Repositories\Bin\Debug\WPAppStudio.Entities.pdb
+D:\SOFTWARES\AppData\FINAL APP DATA\src\Repositories\Bin\Debug\Newtonsoft.Json.xml
+D:\SOFTWARES\AppData\FINAL APP DATA\src\Repositories\Bin\Debug\HtmlAgilityPack.pdb
+D:\SOFTWARES\AppData\FINAL APP DATA\src\Repositories\Bin\Debug\HtmlAgilityPack.xml
+D:\SOFTWARES\AppData\FINAL APP DATA\src\Repositories\obj\Debug\Repositories.csprojResolveAssemblyReference.cache
+D:\SOFTWARES\AppData\FINAL APP DATA\src\Repositories\obj\Debug\WPAppStudio.Repositories.Resources.AppResources.resources
+D:\SOFTWARES\AppData\FINAL APP DATA\src\Repositories\obj\Debug\Repositories.csproj.GenerateResource.Cache
+D:\SOFTWARES\AppData\FINAL APP DATA\src\Repositories\obj\Debug\WPAppStudio.Repositories.dll
+D:\SOFTWARES\AppData\FINAL APP DATA\src\Repositories\obj\Debug\WPAppStudio.Repositories.pdb

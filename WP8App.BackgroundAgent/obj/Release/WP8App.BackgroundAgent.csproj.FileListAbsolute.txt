@@ -1,0 +1,7 @@
+C:\DoWapp\Jobs\256237.jbhfcg\bin\WPAppStudio.BackgroundAgent.dll
+C:\DoWapp\Jobs\256237.jbhfcg\bin\WPAppStudio.BackgroundAgent.pdb
+C:\DoWapp\Jobs\256237.jbhfcg\bin\WPAppStudio.BackgroundAgent.dll.CodeAnalysisLog.xml
+C:\DoWapp\Jobs\256237.jbhfcg\bin\WPAppStudio.BackgroundAgent.dll.lastcodeanalysissucceeded
+C:\DoWapp\Jobs\256237.jbhfcg\src\WP8App.BackgroundAgent\obj\Release\WP8App.BackgroundAgent.csprojResolveAssemblyReference.cache
+C:\DoWapp\Jobs\256237.jbhfcg\src\WP8App.BackgroundAgent\obj\Release\WPAppStudio.BackgroundAgent.dll
+C:\DoWapp\Jobs\256237.jbhfcg\src\WP8App.BackgroundAgent\obj\Release\WPAppStudio.BackgroundAgent.pdb

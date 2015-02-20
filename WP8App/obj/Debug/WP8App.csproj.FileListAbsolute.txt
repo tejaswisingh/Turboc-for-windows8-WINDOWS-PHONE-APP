@@ -1,0 +1,160 @@
+I:\src\WP8App\Bin\Debug\Images\Icons\Dark\Call.png
+I:\src\WP8App\Bin\Debug\Images\Icons\Dark\mail.png
+I:\src\WP8App\Bin\Debug\Images\Icons\Dark\GoToSource.png
+I:\src\WP8App\Bin\Debug\Images\Icons\Dark\location.png
+I:\src\WP8App\Bin\Debug\Images\Icons\Dark\gotolocation.png
+I:\src\WP8App\Bin\Debug\Images\Icons\Dark\PinToStart.png
+I:\src\WP8App\Bin\Debug\Images\Icons\Dark\Refresh.png
+I:\src\WP8App\Bin\Debug\Images\Icons\Dark\SetLockScreen.png
+I:\src\WP8App\Bin\Debug\Images\Icons\Dark\Share.png
+I:\src\WP8App\Bin\Debug\Images\Icons\Dark\Music.png
+I:\src\WP8App\Bin\Debug\Images\Icons\Dark\Play.png
+I:\src\WP8App\Bin\Debug\Images\Icons\Dark\Search.png
+I:\src\WP8App\Bin\Debug\Images\Icons\Dark\TextToSpeech.png
+I:\src\WP8App\Bin\Debug\Images\Icons\Dark\Home.png
+I:\src\WP8App\Bin\Debug\Images\Icons\Light\GoToSource.png
+I:\src\WP8App\Bin\Debug\Images\Icons\Light\Call.png
+I:\src\WP8App\Bin\Debug\Images\Icons\Light\PinToStart.png
+I:\src\WP8App\Bin\Debug\Images\Icons\Light\Refresh.png
+I:\src\WP8App\Bin\Debug\Images\Icons\Light\SetLockScreen.png
+I:\src\WP8App\Bin\Debug\Images\Icons\Light\Share.png
+I:\src\WP8App\Bin\Debug\Images\Icons\Light\Music.png
+I:\src\WP8App\Bin\Debug\Images\Icons\Light\Play.png
+I:\src\WP8App\Bin\Debug\Images\Icons\Light\Search.png
+I:\src\WP8App\Bin\Debug\Images\Icons\Light\TextToSpeech.png
+I:\src\WP8App\Bin\Debug\Images\Icons\Light\Home.png
+I:\src\WP8App\Bin\Debug\WPAppStudio.dll
+I:\src\WP8App\Bin\Debug\WPAppStudio.pdb
+I:\src\WP8App\Bin\Debug\WPAppStudio.dll.CodeAnalysisLog.xml
+I:\src\WP8App\Bin\Debug\WPAppStudio.dll.lastcodeanalysissucceeded
+I:\src\WP8App\Bin\Debug\AppManifest.xaml
+I:\src\WP8App\Bin\Debug\Properties\WMAppManifest.xml
+I:\src\WP8App\Bin\Debug\WPAppStudio.xap
+I:\src\WP8App\Bin\Debug\Microsoft.Advertising.Mobile.dll
+I:\src\WP8App\Bin\Debug\Microsoft.Advertising.Mobile.UI.dll
+I:\src\WP8App\Bin\Debug\Microsoft.Phone.Controls.Toolkit.dll
+I:\src\WP8App\Bin\Debug\Microsoft.Practices.Unity.Silverlight.dll
+I:\src\WP8App\Bin\Debug\Microsoft.Threading.Tasks.dll
+I:\src\WP8App\Bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+I:\src\WP8App\Bin\Debug\Microsoft.Threading.Tasks.Extensions.Phone.dll
+I:\src\WP8App\Bin\Debug\MyToolkit.dll
+I:\src\WP8App\Bin\Debug\MyToolkit.Extended.dll
+I:\src\WP8App\Bin\Debug\Newtonsoft.Json.dll
+I:\src\WP8App\Bin\Debug\WPAppStudio.BackgroundAgent.dll
+I:\src\WP8App\Bin\Debug\WPAppStudio.Entities.dll
+I:\src\WP8App\Bin\Debug\WPAppStudio.Repositories.dll
+I:\src\WP8App\Bin\Debug\WPAppStudio.Shared.dll
+I:\src\WP8App\Bin\Debug\HtmlAgilityPack.dll
+I:\src\WP8App\Bin\Debug\Microsoft.Phone.Controls.dll
+I:\src\WP8App\Bin\Debug\Microsoft.Phone.Controls.Maps.dll
+I:\src\WP8App\Bin\Debug\System.Xml.XPath.dll
+I:\src\WP8App\Bin\Debug\WPAppStudio.Entities.pdb
+I:\src\WP8App\Bin\Debug\WPAppStudio.Repositories.pdb
+I:\src\WP8App\Bin\Debug\WPAppStudio.BackgroundAgent.pdb
+I:\src\WP8App\Bin\Debug\Microsoft.Threading.Tasks.xml
+I:\src\WP8App\Bin\Debug\Microsoft.Threading.Tasks.Extensions.xml
+I:\src\WP8App\Bin\Debug\Microsoft.Threading.Tasks.Extensions.Phone.xml
+I:\src\WP8App\Bin\Debug\Newtonsoft.Json.xml
+I:\src\WP8App\Bin\Debug\HtmlAgilityPack.pdb
+I:\src\WP8App\Bin\Debug\HtmlAgilityPack.xml
+I:\src\WP8App\Bin\Debug\de\MyToolkit.resources.dll
+I:\src\WP8App\Bin\Debug\fr\MyToolkit.resources.dll
+I:\src\WP8App\Bin\Debug\de\MyToolkit.Extended.resources.dll
+I:\src\WP8App\Bin\Debug\fr\MyToolkit.Extended.resources.dll
+I:\src\WP8App\obj\Debug\WP8App.csprojResolveAssemblyReference.cache
+I:\src\WP8App\obj\Debug\App.g.cs
+I:\src\WP8App\obj\Debug\Controls\ZoomPanel.g.cs
+I:\src\WP8App\obj\Debug\Controls\FlipControl.g.cs
+I:\src\WP8App\obj\Debug\Controls\PopupImageViewer.g.cs
+I:\src\WP8App\obj\Debug\View\WhoWeAre_Tutorial.g.cs
+I:\src\WP8App\obj\Debug\View\moments_Detail.g.cs
+I:\src\WP8App\obj\Debug\View\PhotoAlbum_Detail.g.cs
+I:\src\WP8App\obj\Debug\View\WhoWeAre_Detail.g.cs
+I:\src\WP8App\obj\Debug\View\About.g.cs
+I:\src\WP8App\obj\Debug\View\License.g.cs
+I:\src\WP8App\obj\Debug\WPAppStudio.g.resources
+I:\src\WP8App\obj\Debug\WPAppStudio.Resources.AppResources.resources
+I:\src\WP8App\obj\Debug\WP8App.csproj.GenerateResource.Cache
+I:\src\WP8App\obj\Debug\WPAppStudio.dll
+I:\src\WP8App\obj\Debug\WPAppStudio.pdb
+I:\src\WP8App\obj\Debug\XapCacheFile.xml
+D:\SOFTWARES\AppData\FINAL APP DATA\src\WP8App\Bin\Debug\Images\Icons\Dark\Call.png
+D:\SOFTWARES\AppData\FINAL APP DATA\src\WP8App\Bin\Debug\Images\Icons\Dark\mail.png
+D:\SOFTWARES\AppData\FINAL APP DATA\src\WP8App\Bin\Debug\Images\Icons\Dark\GoToSource.png
+D:\SOFTWARES\AppData\FINAL APP DATA\src\WP8App\Bin\Debug\Images\Icons\Dark\location.png
+D:\SOFTWARES\AppData\FINAL APP DATA\src\WP8App\Bin\Debug\Images\Icons\Dark\gotolocation.png
+D:\SOFTWARES\AppData\FINAL APP DATA\src\WP8App\Bin\Debug\Images\Icons\Dark\PinToStart.png
+D:\SOFTWARES\AppData\FINAL APP DATA\src\WP8App\Bin\Debug\Images\Icons\Dark\Refresh.png
+D:\SOFTWARES\AppData\FINAL APP DATA\src\WP8App\Bin\Debug\Images\Icons\Dark\SetLockScreen.png
+D:\SOFTWARES\AppData\FINAL APP DATA\src\WP8App\Bin\Debug\Images\Icons\Dark\Share.png
+D:\SOFTWARES\AppData\FINAL APP DATA\src\WP8App\Bin\Debug\Images\Icons\Dark\Music.png
+D:\SOFTWARES\AppData\FINAL APP DATA\src\WP8App\Bin\Debug\Images\Icons\Dark\Play.png
+D:\SOFTWARES\AppData\FINAL APP DATA\src\WP8App\Bin\Debug\Images\Icons\Dark\Search.png
+D:\SOFTWARES\AppData\FINAL APP DATA\src\WP8App\Bin\Debug\Images\Icons\Dark\TextToSpeech.png
+D:\SOFTWARES\AppData\FINAL APP DATA\src\WP8App\Bin\Debug\Images\Icons\Dark\Home.png
+D:\SOFTWARES\AppData\FINAL APP DATA\src\WP8App\Bin\Debug\Images\Icons\Light\GoToSource.png
+D:\SOFTWARES\AppData\FINAL APP DATA\src\WP8App\Bin\Debug\Images\Icons\Light\Call.png
+D:\SOFTWARES\AppData\FINAL APP DATA\src\WP8App\Bin\Debug\Images\Icons\Light\PinToStart.png
+D:\SOFTWARES\AppData\FINAL APP DATA\src\WP8App\Bin\Debug\Images\Icons\Light\Refresh.png
+D:\SOFTWARES\AppData\FINAL APP DATA\src\WP8App\Bin\Debug\Images\Icons\Light\SetLockScreen.png
+D:\SOFTWARES\AppData\FINAL APP DATA\src\WP8App\Bin\Debug\Images\Icons\Light\Share.png
+D:\SOFTWARES\AppData\FINAL APP DATA\src\WP8App\Bin\Debug\Images\Icons\Light\Music.png
+D:\SOFTWARES\AppData\FINAL APP DATA\src\WP8App\Bin\Debug\Images\Icons\Light\Play.png
+D:\SOFTWARES\AppData\FINAL APP DATA\src\WP8App\Bin\Debug\Images\Icons\Light\Search.png
+D:\SOFTWARES\AppData\FINAL APP DATA\src\WP8App\Bin\Debug\Images\Icons\Light\TextToSpeech.png
+D:\SOFTWARES\AppData\FINAL APP DATA\src\WP8App\Bin\Debug\Images\Icons\Light\Home.png
+D:\SOFTWARES\AppData\FINAL APP DATA\src\WP8App\Bin\Debug\WPAppStudio.dll
+D:\SOFTWARES\AppData\FINAL APP DATA\src\WP8App\Bin\Debug\WPAppStudio.pdb
+D:\SOFTWARES\AppData\FINAL APP DATA\src\WP8App\Bin\Debug\WPAppStudio.dll.CodeAnalysisLog.xml
+D:\SOFTWARES\AppData\FINAL APP DATA\src\WP8App\Bin\Debug\WPAppStudio.dll.lastcodeanalysissucceeded
+D:\SOFTWARES\AppData\FINAL APP DATA\src\WP8App\Bin\Debug\AppManifest.xaml
+D:\SOFTWARES\AppData\FINAL APP DATA\src\WP8App\Bin\Debug\Properties\WMAppManifest.xml
+D:\SOFTWARES\AppData\FINAL APP DATA\src\WP8App\Bin\Debug\WPAppStudio.xap
+D:\SOFTWARES\AppData\FINAL APP DATA\src\WP8App\Bin\Debug\Microsoft.Advertising.Mobile.dll
+D:\SOFTWARES\AppData\FINAL APP DATA\src\WP8App\Bin\Debug\Microsoft.Advertising.Mobile.UI.dll
+D:\SOFTWARES\AppData\FINAL APP DATA\src\WP8App\Bin\Debug\Microsoft.Phone.Controls.Toolkit.dll
+D:\SOFTWARES\AppData\FINAL APP DATA\src\WP8App\Bin\Debug\Microsoft.Practices.Unity.Silverlight.dll
+D:\SOFTWARES\AppData\FINAL APP DATA\src\WP8App\Bin\Debug\Microsoft.Threading.Tasks.dll
+D:\SOFTWARES\AppData\FINAL APP DATA\src\WP8App\Bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+D:\SOFTWARES\AppData\FINAL APP DATA\src\WP8App\Bin\Debug\Microsoft.Threading.Tasks.Extensions.Phone.dll
+D:\SOFTWARES\AppData\FINAL APP DATA\src\WP8App\Bin\Debug\MyToolkit.dll
+D:\SOFTWARES\AppData\FINAL APP DATA\src\WP8App\Bin\Debug\MyToolkit.Extended.dll
+D:\SOFTWARES\AppData\FINAL APP DATA\src\WP8App\Bin\Debug\Newtonsoft.Json.dll
+D:\SOFTWARES\AppData\FINAL APP DATA\src\WP8App\Bin\Debug\WPAppStudio.BackgroundAgent.dll
+D:\SOFTWARES\AppData\FINAL APP DATA\src\WP8App\Bin\Debug\WPAppStudio.Entities.dll
+D:\SOFTWARES\AppData\FINAL APP DATA\src\WP8App\Bin\Debug\WPAppStudio.Repositories.dll
+D:\SOFTWARES\AppData\FINAL APP DATA\src\WP8App\Bin\Debug\WPAppStudio.Shared.dll
+D:\SOFTWARES\AppData\FINAL APP DATA\src\WP8App\Bin\Debug\HtmlAgilityPack.dll
+D:\SOFTWARES\AppData\FINAL APP DATA\src\WP8App\Bin\Debug\Microsoft.Phone.Controls.dll
+D:\SOFTWARES\AppData\FINAL APP DATA\src\WP8App\Bin\Debug\Microsoft.Phone.Controls.Maps.dll
+D:\SOFTWARES\AppData\FINAL APP DATA\src\WP8App\Bin\Debug\System.Xml.XPath.dll
+D:\SOFTWARES\AppData\FINAL APP DATA\src\WP8App\Bin\Debug\WPAppStudio.Entities.pdb
+D:\SOFTWARES\AppData\FINAL APP DATA\src\WP8App\Bin\Debug\WPAppStudio.Repositories.pdb
+D:\SOFTWARES\AppData\FINAL APP DATA\src\WP8App\Bin\Debug\WPAppStudio.BackgroundAgent.pdb
+D:\SOFTWARES\AppData\FINAL APP DATA\src\WP8App\Bin\Debug\Microsoft.Threading.Tasks.xml
+D:\SOFTWARES\AppData\FINAL APP DATA\src\WP8App\Bin\Debug\Microsoft.Threading.Tasks.Extensions.xml
+D:\SOFTWARES\AppData\FINAL APP DATA\src\WP8App\Bin\Debug\Microsoft.Threading.Tasks.Extensions.Phone.xml
+D:\SOFTWARES\AppData\FINAL APP DATA\src\WP8App\Bin\Debug\Newtonsoft.Json.xml
+D:\SOFTWARES\AppData\FINAL APP DATA\src\WP8App\Bin\Debug\HtmlAgilityPack.pdb
+D:\SOFTWARES\AppData\FINAL APP DATA\src\WP8App\Bin\Debug\HtmlAgilityPack.xml
+D:\SOFTWARES\AppData\FINAL APP DATA\src\WP8App\Bin\Debug\de\MyToolkit.resources.dll
+D:\SOFTWARES\AppData\FINAL APP DATA\src\WP8App\Bin\Debug\fr\MyToolkit.resources.dll
+D:\SOFTWARES\AppData\FINAL APP DATA\src\WP8App\Bin\Debug\de\MyToolkit.Extended.resources.dll
+D:\SOFTWARES\AppData\FINAL APP DATA\src\WP8App\Bin\Debug\fr\MyToolkit.Extended.resources.dll
+D:\SOFTWARES\AppData\FINAL APP DATA\src\WP8App\obj\Debug\WP8App.csprojResolveAssemblyReference.cache
+D:\SOFTWARES\AppData\FINAL APP DATA\src\WP8App\obj\Debug\App.g.cs
+D:\SOFTWARES\AppData\FINAL APP DATA\src\WP8App\obj\Debug\Controls\ZoomPanel.g.cs
+D:\SOFTWARES\AppData\FINAL APP DATA\src\WP8App\obj\Debug\Controls\FlipControl.g.cs
+D:\SOFTWARES\AppData\FINAL APP DATA\src\WP8App\obj\Debug\Controls\PopupImageViewer.g.cs
+D:\SOFTWARES\AppData\FINAL APP DATA\src\WP8App\obj\Debug\View\WhoWeAre_Tutorial.g.cs
+D:\SOFTWARES\AppData\FINAL APP DATA\src\WP8App\obj\Debug\View\moments_Detail.g.cs
+D:\SOFTWARES\AppData\FINAL APP DATA\src\WP8App\obj\Debug\View\PhotoAlbum_Detail.g.cs
+D:\SOFTWARES\AppData\FINAL APP DATA\src\WP8App\obj\Debug\View\WhoWeAre_Detail.g.cs
+D:\SOFTWARES\AppData\FINAL APP DATA\src\WP8App\obj\Debug\View\About.g.cs
+D:\SOFTWARES\AppData\FINAL APP DATA\src\WP8App\obj\Debug\View\License.g.cs
+D:\SOFTWARES\AppData\FINAL APP DATA\src\WP8App\obj\Debug\WPAppStudio.g.resources
+D:\SOFTWARES\AppData\FINAL APP DATA\src\WP8App\obj\Debug\WPAppStudio.Resources.AppResources.resources
+D:\SOFTWARES\AppData\FINAL APP DATA\src\WP8App\obj\Debug\WP8App.csproj.GenerateResource.Cache
+D:\SOFTWARES\AppData\FINAL APP DATA\src\WP8App\obj\Debug\WPAppStudio.dll
+D:\SOFTWARES\AppData\FINAL APP DATA\src\WP8App\obj\Debug\WPAppStudio.pdb
+D:\SOFTWARES\AppData\FINAL APP DATA\src\WP8App\obj\Debug\XapCacheFile.xml

@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Deployment xmlns="http://schemas.microsoft.com/windowsphone/2012/deployment" AppPlatformVersion="8.0">
+  <DefaultLanguage xmlns="" code="en-US" />
+  <App xmlns="" ProductID="{a89a8634-521e-4218-86ee-9ae677eb871b}" Title="TurboC++" RuntimeType="Silverlight" Version="1.0.0.0" Genre="apps.normal" Author="" Description="This is a tutorial to install Turboc++ in windows 8 operating system as we know these days engineers need turboc++ to practice the programs , so here is the tutorial for you guys." Publisher="" PublisherID="{e7d94c95-4681-45a0-a8b4-5df4e482fb9e}">
+    <IconPath IsRelative="true" IsResource="false">Images\Logo-89401204-353b-44fd-86c0-eeff17be5801.png</IconPath>
+    <Capabilities>
+      <Capability Name="ID_CAP_NETWORKING" />
+      <Capability Name="ID_CAP_SENSORS" />
+      <Capability Name="ID_CAP_WEBBROWSERCOMPONENT" />
+      <Capability Name="ID_CAP_SPEECH_RECOGNITION" />
+      <Capability Name="ID_CAP_PHONEDIALER" />
+      <Capability Name="ID_CAP_LOCATION" />
+      <Capability Name="ID_CAP_PROXIMITY" />
+      <Capability Name="ID_CAP_IDENTITY_USER" />
+      <Capability Name="ID_CAP_MAP" />
+    </Capabilities>
+    <Tasks>
+      <DefaultTask Name="_default" NavigationPage="View/WhoWeAre_Tutorial.xaml" ActivationPolicy="Resume" />
+      <ExtendedTask Name="BackgroundTask">
+        <BackgroundServiceAgent Specifier="ScheduledTaskAgent" Name="WPAppStudio.BackgroundAgent" Source="WPAppStudio.BackgroundAgent" Type="WPAppStudio.BackgroundProcess.BackgroundAgent" />
+      </ExtendedTask>
+    </Tasks>
+    <Tokens>
+      <PrimaryToken TokenID="MyDoWapp" TaskName="_default">
+        <TemplateCycle>
+          <SmallImageURI IsRelative="true" IsResource="false">Images/Logo-89401204-353b-44fd-86c0-eeff17be5801.png</SmallImageURI>
+          <Title>TurboC++</Title>
+          <Photo01ImageURI IsRelative="true" IsResource="false">Images/Item-aaff0edf-cfa9-4a6e-97b8-1b0fa19a482d.png</Photo01ImageURI>
+          <Photo02ImageURI IsRelative="true" IsResource="false">Images/Item-d2932790-1575-490a-9923-9d804efad142.png</Photo02ImageURI>
+          <Photo03ImageURI IsRelative="true" IsResource="false">Images/Item-cca98043-d5ba-4de7-ab1c-0a19a3319031.png</Photo03ImageURI>
+          <Photo04ImageURI IsRelative="true" IsResource="false">Images/Item-7f7585ea-9912-4034-8ff9-4694bc39caaa.png</Photo04ImageURI>
+          <Photo05ImageURI IsRelative="true" IsResource="false">Images/Item-2c6b85b6-56e6-4370-b929-e0a93d3aec87.jpg</Photo05ImageURI>
+          <Photo06ImageURI IsRelative="true" IsResource="false">Images/Item-64607eeb-d1d2-44af-af04-dcdeafb2ed6f.jpg</Photo06ImageURI>
+          <Photo07ImageURI IsRelative="true" IsResource="false">Images/Item-283282ec-faac-4dfd-bcaf-677cebe6da9f.jpg</Photo07ImageURI>
+          <Photo08ImageURI IsRelative="true" IsResource="false">Images/Item-10c74be1-9c62-4602-9fb9-992747910a0d.jpg</Photo08ImageURI>
+          <Photo09ImageURI IsRelative="true" IsResource="false">Images/Item-1bca5ea5-20fe-4f1a-be2f-0bae520e2f5e.jpg</Photo09ImageURI>
+          <Count>0</Count>
+          <HasLarge>True</HasLarge>
+          <DeviceLockImageURI IsRelative="true" IsResource="false"></DeviceLockImageURI>
+        </TemplateCycle>
+      </PrimaryToken>
+    </Tokens>
+    <Extensions>
+      <Extension ExtensionName="LockScreen_Notification_IconCount" ConsumerID="{111DFF24-AA15-4A96-8006-2BFF8122084F}" TaskID="_default" />
+      <Extension ExtensionName="LockScreen_Notification_TextField" ConsumerID="{111DFF24-AA15-4A96-8006-2BFF8122084F}" TaskID="_default" />
+      <Extension ExtensionName="LockScreen_Background" ConsumerID="{111DFF24-AA15-4A96-8006-2BFF8122084F}" TaskID="_default" />
+    </Extensions>
+    <ScreenResolutions>
+      <ScreenResolution Name="ID_RESOLUTION_WVGA" />
+      <ScreenResolution Name="ID_RESOLUTION_WXGA" />
+      <ScreenResolution Name="ID_RESOLUTION_HD720P" />
+    </ScreenResolutions>
+  </App>
+</Deployment>
+<!-- WPSDK Version 8.0.9900 -->

@@ -1,0 +1,22 @@
+I:\src\Entities\Bin\Debug\WPAppStudio.Entities.dll
+I:\src\Entities\Bin\Debug\WPAppStudio.Entities.pdb
+I:\src\Entities\Bin\Debug\WPAppStudio.Entities.dll.CodeAnalysisLog.xml
+I:\src\Entities\Bin\Debug\WPAppStudio.Entities.dll.lastcodeanalysissucceeded
+I:\src\Entities\Bin\Debug\HtmlAgilityPack.dll
+I:\src\Entities\Bin\Debug\System.Xml.XPath.dll
+I:\src\Entities\Bin\Debug\HtmlAgilityPack.pdb
+I:\src\Entities\Bin\Debug\HtmlAgilityPack.xml
+I:\src\Entities\obj\Debug\Entities.csprojResolveAssemblyReference.cache
+I:\src\Entities\obj\Debug\WPAppStudio.Entities.dll
+I:\src\Entities\obj\Debug\WPAppStudio.Entities.pdb
+D:\SOFTWARES\AppData\FINAL APP DATA\src\Entities\Bin\Debug\WPAppStudio.Entities.dll
+D:\SOFTWARES\AppData\FINAL APP DATA\src\Entities\Bin\Debug\WPAppStudio.Entities.pdb
+D:\SOFTWARES\AppData\FINAL APP DATA\src\Entities\Bin\Debug\WPAppStudio.Entities.dll.CodeAnalysisLog.xml
+D:\SOFTWARES\AppData\FINAL APP DATA\src\Entities\Bin\Debug\WPAppStudio.Entities.dll.lastcodeanalysissucceeded
+D:\SOFTWARES\AppData\FINAL APP DATA\src\Entities\Bin\Debug\HtmlAgilityPack.dll
+D:\SOFTWARES\AppData\FINAL APP DATA\src\Entities\Bin\Debug\System.Xml.XPath.dll
+D:\SOFTWARES\AppData\FINAL APP DATA\src\Entities\Bin\Debug\HtmlAgilityPack.pdb
+D:\SOFTWARES\AppData\FINAL APP DATA\src\Entities\Bin\Debug\HtmlAgilityPack.xml
+D:\SOFTWARES\AppData\FINAL APP DATA\src\Entities\obj\Debug\Entities.csprojResolveAssemblyReference.cache
+D:\SOFTWARES\AppData\FINAL APP DATA\src\Entities\obj\Debug\WPAppStudio.Entities.dll
+D:\SOFTWARES\AppData\FINAL APP DATA\src\Entities\obj\Debug\WPAppStudio.Entities.pdb
